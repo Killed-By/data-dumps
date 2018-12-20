@@ -1,0 +1,1 @@
+\COPY killedby.kbp_import TO ./dumps/killed_by_police.csv WITH ( FORMAT csv, HEADER true );
